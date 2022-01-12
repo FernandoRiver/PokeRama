@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.04374f8f.css",
+    "main.css": "/static/css/main.d7c0f74c.css",
     "main.js": "/static/js/main.9f9d871d.js",
     "static/media/back-card.png": "/static/media/back-card.fc5e0be6d4d661ffd3c3.png",
     "static/media/front-psychic.png": "/static/media/front-psychic.113b8c1e65f0f679b394.png",
@@ -16,11 +16,11 @@
     "static/media/front-poison.png": "/static/media/front-poison.6635d256978286993c89.png",
     "static/media/pokeball.png": "/static/media/pokeball.19504cbfb7f6205a64ab.png",
     "index.html": "/index.html",
-    "main.04374f8f.css.map": "/static/css/main.04374f8f.css.map",
+    "main.d7c0f74c.css.map": "/static/css/main.d7c0f74c.css.map",
     "main.9f9d871d.js.map": "/static/js/main.9f9d871d.js.map"
   },
   "entrypoints": [
-    "static/css/main.04374f8f.css",
+    "static/css/main.d7c0f74c.css",
     "static/js/main.9f9d871d.js"
   ]
 }
